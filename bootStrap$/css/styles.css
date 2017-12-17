@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#cover {
+    background: #222 url('../img/showcase.jpg') center center no-repeat;
+    height: 100vh;
+    text-align: center;
+    display: flex;
+    min-height: 450px;
+    align-items: center;
+    overflow: hidden;
+}
+
+#cover-caption {
+    margin: auto;
+    width: 100%;
+}
+
+.container {
+    display: inline-block;
+}
